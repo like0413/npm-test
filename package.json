@@ -1,5 +1,5 @@
 {
-  "name": "like-test-20240219",
+  "name": "@like-test/npm-test",
   "version": "1.0.0",
   "description": "like test",
   "main": "index.js",
